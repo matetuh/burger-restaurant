@@ -9,6 +9,7 @@
 }
 
 body {
+    background-attachment: scroll;
     overflow-x: hidden;
     background-color: #fff;
     color: #1D3557;
@@ -88,7 +89,7 @@ section {
 header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/headerBackground.jpg);
     height: 100vh;
-    background-size: cover;
+    background-size: auto;
     background-position: center;
     background-attachment: fixed;
 }
