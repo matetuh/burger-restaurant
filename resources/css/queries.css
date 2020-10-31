@@ -167,6 +167,10 @@
         top: 60%;
     }
 
+    .main-nav li {
+        margin-left: 0;
+    }
+
     .btn:link,
     .btn:visited {
         display: block;

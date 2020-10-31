@@ -140,8 +140,7 @@ body h1 {
 
 .main-nav li {
     display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 40px;
 }
 
 .main-nav li a:link,
