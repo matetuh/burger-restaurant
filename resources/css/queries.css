@@ -153,7 +153,19 @@
         background-position: bottom;
         background-attachment: initial;
     }
-    
+
+
+    .main-nav li a:link,
+    .main-nav li a:visited {
+        padding: 5px auto;
+    }
+
+    .hero-text-box {
+        text-align: center;
+        margin: 10px 0;
+        top: 55%;
+    }
+
     .hero-text-box h1 {
         padding-bottom: 20px;
     }
