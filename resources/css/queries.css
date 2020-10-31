@@ -139,6 +139,7 @@
     .meals-showcase li p,
     .meals-showcase li h4{
         left: 40%;
+        font-size: 90%;
     }
     
 }
