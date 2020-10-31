@@ -156,7 +156,7 @@
     }
 
     .section-opinions {
-        height: auto;
+        background-size: cover;
         background-position: bottom;
         background-attachment: initial;
     }
