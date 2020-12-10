@@ -8,4 +8,4 @@ Burger Restaurant website build using HTML, CSS and some JS (jQuery)
 
 Live Demo: https://matetuh.github.io/burger-restaurant/
 
-
+The layout based on: Build Responsive Real World Websites with HTML5 and CSS3 - Jonas Schmedtmann
